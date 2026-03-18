@@ -4,7 +4,7 @@
 ![google.jpg](./img/google.jpg)
 # Resumen:
 
-Presento una visión general del **Certificado Profesional de Ciberseguridad de Google** disponible en Coursera, diseñado para preparar a personas sin experiencia previa para roles de nivel inicial en el sector tecnológico.
+Esta es una visión general del **Certificado Profesional de Ciberseguridad de Google** disponible en Coursera, diseñado para preparar a personas sin experiencia previa para roles de nivel inicial en el sector tecnológico.
 
 ## 1. Puntos Relevantes del Curso 💯
 
