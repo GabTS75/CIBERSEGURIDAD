@@ -1,4 +1,6 @@
 # 🛡️ Certificado Profesional de Ciberseguridad de Google
+
+---
 ![google.jpg](./img/google.jpg)
 # Resumen:
 
