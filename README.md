@@ -1,8 +1,7 @@
 # 🛡️ Certificado Profesional de Ciberseguridad de Google
 
-
 ![google.jpg](./img/google.jpg)
-# Resumen:
+# Resumen 📝
 
 Esta es una visión general del **Certificado Profesional de Ciberseguridad de Google** disponible en Coursera, diseñado para preparar a personas sin experiencia previa para roles de nivel inicial en el sector tecnológico.
 
@@ -55,10 +54,6 @@ Los graduados pueden desempeñarse en una amplia variedad de sectores (banca, sa
 - **Nivel:** Introductorio / Profesional de nivel inicial.
 - **Resultado:** Al completar los 8 módulos, se obtiene un **Certificado Profesional de Google** y una insignia digital de Coursera verificable para LinkedIn. Proporciona las bases sólidas para avanzar hacia niveles intermedios o expertos.
 
----
-
 ## Conclusión ✨
 
 El Certificado de Ciberseguridad de Google es una de las puertas de entrada más sólidas y accesibles a la industria tecnológica actual. Su combinación de teoría basada en estándares de la industria (NIST) y práctica técnica (Python, SQL, Linux) lo convierte en una inversión de tiempo altamente rentable para quienes buscan una carrera estable, bien remunerada y con propósito en el mundo digital.
-
----
