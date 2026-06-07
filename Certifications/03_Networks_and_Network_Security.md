@@ -1,8 +1,8 @@
-# Foundations of Cybersecurity
+# Connect and Protect: Networks and Network Security
 
 ![certificate_03](/img/certificate_03.png)
 
-[🏆 Certificate of Google | Connect and Protect: Networks and Network Security](https://coursera.org/share/7647af30cf61e548ec105296af7c3ae8)
+[🏆 Certificate of Google | Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/3D9BFGVNLLEG)
 
 ---
 
